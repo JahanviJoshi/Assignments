@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Zve7i0/wlKrmdpU3QZ3TznaL0ib0nmhkio67oHXPa56HA1kPGwNfp+yPb6NLQSq8guTeaGsK4Cjw/tukK3TGQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\Assigment6a\\Assigment6a\\Assigment6a.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

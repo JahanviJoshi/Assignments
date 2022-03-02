@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\Serailzation\Serailzation\bin\Debug\Serailzation.exe.config
+C:\Users\Dell\source\repos\Serailzation\Serailzation\bin\Debug\Serailzation.exe
+C:\Users\Dell\source\repos\Serailzation\Serailzation\bin\Debug\Serailzation.pdb
+C:\Users\Dell\source\repos\Serailzation\Serailzation\obj\Debug\Serailzation.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Serailzation\Serailzation\obj\Debug\Serailzation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\Serailzation\Serailzation\obj\Debug\Serailzation.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Serailzation\Serailzation\obj\Debug\Serailzation.exe
+C:\Users\Dell\source\repos\Serailzation\Serailzation\obj\Debug\Serailzation.pdb

@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\Assigment6a\Assigment6a\bin\Debug\net5.0\Assigment6a.exe
+C:\Users\Dell\source\repos\Assigment6a\Assigment6a\bin\Debug\net5.0\Assigment6a.deps.json
+C:\Users\Dell\source\repos\Assigment6a\Assigment6a\bin\Debug\net5.0\Assigment6a.runtimeconfig.json
+C:\Users\Dell\source\repos\Assigment6a\Assigment6a\bin\Debug\net5.0\Assigment6a.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Assigment6a\Assigment6a\bin\Debug\net5.0\Assigment6a.dll
+C:\Users\Dell\source\repos\Assigment6a\Assigment6a\bin\Debug\net5.0\ref\Assigment6a.dll
+C:\Users\Dell\source\repos\Assigment6a\Assigment6a\bin\Debug\net5.0\Assigment6a.pdb
+C:\Users\Dell\source\repos\Assigment6a\Assigment6a\obj\Debug\net5.0\Assigment6a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Assigment6a\Assigment6a\obj\Debug\net5.0\Assigment6a.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Assigment6a\Assigment6a\obj\Debug\net5.0\Assigment6a.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Assigment6a\Assigment6a\obj\Debug\net5.0\Assigment6a.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Assigment6a\Assigment6a\obj\Debug\net5.0\Assigment6a.dll
+C:\Users\Dell\source\repos\Assigment6a\Assigment6a\obj\Debug\net5.0\ref\Assigment6a.dll
+C:\Users\Dell\source\repos\Assigment6a\Assigment6a\obj\Debug\net5.0\Assigment6a.pdb
+C:\Users\Dell\source\repos\Assigment6a\Assigment6a\obj\Debug\net5.0\Assigment6a.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Assigment6a\Assigment6a\obj\Debug\net5.0\Assigment6a.csproj.AssemblyReference.cache
