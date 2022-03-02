@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\Ass2_string\Ass2_string\bin\Debug\net5.0\Ass2_string.exe
+C:\Users\Dell\source\repos\Ass2_string\Ass2_string\bin\Debug\net5.0\Ass2_string.deps.json
+C:\Users\Dell\source\repos\Ass2_string\Ass2_string\bin\Debug\net5.0\Ass2_string.runtimeconfig.json
+C:\Users\Dell\source\repos\Ass2_string\Ass2_string\bin\Debug\net5.0\Ass2_string.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\Ass2_string\Ass2_string\bin\Debug\net5.0\Ass2_string.dll
+C:\Users\Dell\source\repos\Ass2_string\Ass2_string\bin\Debug\net5.0\ref\Ass2_string.dll
+C:\Users\Dell\source\repos\Ass2_string\Ass2_string\bin\Debug\net5.0\Ass2_string.pdb
+C:\Users\Dell\source\repos\Ass2_string\Ass2_string\obj\Debug\net5.0\Ass2_string.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Ass2_string\Ass2_string\obj\Debug\net5.0\Ass2_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Ass2_string\Ass2_string\obj\Debug\net5.0\Ass2_string.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Ass2_string\Ass2_string\obj\Debug\net5.0\Ass2_string.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Ass2_string\Ass2_string\obj\Debug\net5.0\Ass2_string.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Ass2_string\Ass2_string\obj\Debug\net5.0\Ass2_string.dll
+C:\Users\Dell\source\repos\Ass2_string\Ass2_string\obj\Debug\net5.0\ref\Ass2_string.dll
+C:\Users\Dell\source\repos\Ass2_string\Ass2_string\obj\Debug\net5.0\Ass2_string.pdb
+C:\Users\Dell\source\repos\Ass2_string\Ass2_string\obj\Debug\net5.0\Ass2_string.genruntimeconfig.cache

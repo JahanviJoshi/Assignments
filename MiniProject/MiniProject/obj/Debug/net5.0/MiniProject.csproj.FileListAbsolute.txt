@@ -1,0 +1,16 @@
+C:\Users\Dell\source\repos\MiniProject\MiniProject\bin\Debug\net5.0\MiniProject.exe
+C:\Users\Dell\source\repos\MiniProject\MiniProject\bin\Debug\net5.0\MiniProject.deps.json
+C:\Users\Dell\source\repos\MiniProject\MiniProject\bin\Debug\net5.0\MiniProject.runtimeconfig.json
+C:\Users\Dell\source\repos\MiniProject\MiniProject\bin\Debug\net5.0\MiniProject.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\MiniProject\MiniProject\bin\Debug\net5.0\MiniProject.dll
+C:\Users\Dell\source\repos\MiniProject\MiniProject\bin\Debug\net5.0\ref\MiniProject.dll
+C:\Users\Dell\source\repos\MiniProject\MiniProject\bin\Debug\net5.0\MiniProject.pdb
+C:\Users\Dell\source\repos\MiniProject\MiniProject\obj\Debug\net5.0\MiniProject.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\MiniProject\MiniProject\obj\Debug\net5.0\MiniProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\MiniProject\MiniProject\obj\Debug\net5.0\MiniProject.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\MiniProject\MiniProject\obj\Debug\net5.0\MiniProject.AssemblyInfo.cs
+C:\Users\Dell\source\repos\MiniProject\MiniProject\obj\Debug\net5.0\MiniProject.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\MiniProject\MiniProject\obj\Debug\net5.0\MiniProject.dll
+C:\Users\Dell\source\repos\MiniProject\MiniProject\obj\Debug\net5.0\ref\MiniProject.dll
+C:\Users\Dell\source\repos\MiniProject\MiniProject\obj\Debug\net5.0\MiniProject.pdb
+C:\Users\Dell\source\repos\MiniProject\MiniProject\obj\Debug\net5.0\MiniProject.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8awDrFcwy3iU20HlvQUW1xC/+tIbF37nBJcY6HAGEwIGg58cfcqt+BKKvpsZKARF86NJ7x5o7Uh16BzSpZD7DA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dell\\source\\repos\\MiniProject\\MiniProject\\MiniProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

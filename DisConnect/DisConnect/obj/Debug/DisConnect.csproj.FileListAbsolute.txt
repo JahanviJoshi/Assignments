@@ -1,0 +1,8 @@
+C:\Users\Dell\source\repos\DisConnect\DisConnect\obj\Debug\DisConnect.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\DisConnect\DisConnect\obj\Debug\DisConnect.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\DisConnect\DisConnect\obj\Debug\DisConnect.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DisConnect\DisConnect\bin\Debug\DisConnect.exe.config
+C:\Users\Dell\source\repos\DisConnect\DisConnect\bin\Debug\DisConnect.exe
+C:\Users\Dell\source\repos\DisConnect\DisConnect\bin\Debug\DisConnect.pdb
+C:\Users\Dell\source\repos\DisConnect\DisConnect\obj\Debug\DisConnect.exe
+C:\Users\Dell\source\repos\DisConnect\DisConnect\obj\Debug\DisConnect.pdb
