@@ -1,0 +1,54 @@
+create function ValidateEmpData2(@Empno int,@Salary int, @Empname varchar(100))
+returns int
+as
+begin
+ declare @val int 
+ 
+
+ if(@Empno <=0 OR @Salary<=0)
+	set @val =0;
+Else 
+	set @val = 1;
+
+	--if(@Salary not like '%[A-z]%')
+	--	set @val =0;
+	--else
+	-- set @val =1;
+
+	 return @val;
+End;
+GO
+
+
+
+
+
+
+Create proc sp_insertdata2
+(@Empno int, @Empname varchar(200), @salary int, @Designation varchar(200), @Deptno int , @Email varchar(200))
+as
+begin
+
+ if dbo.ValidateEmpData2(@Empno,@salary,@Empname)=0
+  select 'Enter Positive no';
+ else
+	Insert into Employee(Empno,Empname,Salary,Designation,Deptno,Email)
+  values
+  (@Empno,@Empname,@salary,@Designation,@Deptno,@Email);
+  End;
+  
+  GO
+
+  Exec sp_insertdata2 @Empno=-188,@Empname='Meeta',@salary= -12200,@Designation= 'Manger',@Deptno=1,@Email='meeta@gmail.com'
+  Exec sp_insertdata @Empno=188,@Empname='Geeta',@salary= 12200,@Designation= 'Manger',@Deptno=1,@Email='geeta@gmail.com'
+  Exec sp_insertdata @Empno=1888,@Empname='Geeta123',@salary= 12200,@Designation= 'Manger',@Deptno=1,@Email='geeta@gmail.com'
+  Exec sp_insertdata @Empno=902,@Empname='jina190#23',@salary= 12200,@Designation= 'Manger',@Deptno=2,@Email='tina@gmail.com'
+  Go
+
+  drop function ValidateEmpData2;
+  drop proc sp_insertdata2;
+
+  delete from Employee
+  where Empno = 1889;
+
+ 
