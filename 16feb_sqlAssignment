@@ -1,0 +1,50 @@
+ --Select Second Max Salary Per DeptNo
+select Deptno, Max(Salary) as Salary  from Employee  where Salary < (Select Max(Salary) from Employee ) Group by Deptno;
+
+--Select Max and Second Max Salary for Each Designation (Write Separate Queries)
+select Designation, Max(Salary) as Salary 
+from Employee Group by Designation;   -- highest salary
+
+select Designation, Max(salary) as Salary  from Employee  where Salary < (Select Max(Salary) from Employee ) Group by Designation;
+
+
+Go
+
+-- Max Salary Department wise
+create proc sp_MaxSalaryByDeptName
+as
+Begin
+    select DeptName, Max(Salary) as Salary
+from Employee, Department 
+Where Employee.DeptNo = Department.DeptNo
+Group by (Department.DeptName) 
+Order By DeptName Desc 
+;
+end;
+go
+exec sp_MaxSalaryByDeptName;
+Go
+
+
+
+create Procedure sp_insertrow 
+AS
+Begin
+Insert into Employee 
+	(  Empno
+      ,Empname
+      ,Salary
+      ,Designation
+      ,Deptno
+      ,Email) values (501,'Taniya',21000,'Manager',2,'Tina@gmail.com');
+End;
+Go
+
+Exec sp_insertrow;
+
+drop proc sp_insertrow;
+drop proc sp_MaxSalaryByDeptName;
+
+select * from Employee;
+GO
+
